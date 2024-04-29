@@ -1,5 +1,5 @@
 provider "google" {
-
+  credentials = id("key") 
   project = "xenon-timer-414316"
   
 
