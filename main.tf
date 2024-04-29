@@ -1,7 +1,5 @@
 provider "google" {
-  access_token = "ya29.a0Ad52N38cEFPNzankD2cArtk7XzS6tX1YoV61tRuZwR3NJtvYmdZZ4GN7t9dKUI5zyDgaAQ9RR9x4zKZP5jd4tyOLLBTvnbAmkRuU4Q_arL9UzyKc58d__TLOBSaheGHr3yy-BvquaFhK1mqBlrR02nJWMgnrgNWoDk0htb-ZPQaCgYKAdcSARISFQHGX2Mi6KuzjHHKlB0Q05nO8REXTw0177"
-  project = "xenon-timer-414316"
-  
+  project = "xenon-timer-414316"  
 
 }
  
